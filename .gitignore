@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# 용량 큰 원본 디자인 파일 (Figma 링크로 대체 권장)
+*.psd
+*.ai
+*.sketch
+*.fig
+
+# 임시 다운로드/캡처 폴더
+/tmp/
